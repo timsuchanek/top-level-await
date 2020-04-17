@@ -1,6 +1,6 @@
 # Top-level await
 
-This is an attempt to get the new top-level await introduced in TypeScript 3.8 running.
+This is an attempt to get the [new top-level await](https://github.com/microsoft/TypeScript/pull/35813) introduced in TypeScript 3.8 running.
 
 It's not running yet.
 What works: `tsc -d` -> it compiles correctly.
